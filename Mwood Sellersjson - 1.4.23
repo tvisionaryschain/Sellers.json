@@ -1,25 +1,32 @@
 {
-  "contact_email": "business@millwoodcreative.com",
-  "contact_address": "Ussihkin 70,TLV, 6602820, IL",
-  "version": "1.0",
+  "contact_email": "info@millwoodcreative.com",
+  "contact_address": "Ussihkin,70,TLV,IL",
+  "version": "1.2",
+  "identifiers": [],
   "sellers": [
     {
-      "seller_id": "60352",
+      "seller_id": "60209",
       "seller_type": "PUBLISHER",
-      "domain": "aigames.ae",
-      "name": "aigames.ae"
+      "domain": "playsimple.in",
+      "name": "playsimple.in"
     },
     {
-      "seller_id": "60222",
+      "seller_id": "60210",
       "seller_type": "PUBLISHER",
-      "domain": "anthymtv.com",
-      "name": "anthymtv.com"
+      "domain": "plex.tv",
+      "name": "plex.tv"
     },
     {
-      "seller_id": "60337",
+      "seller_id": "60213",
       "seller_type": "PUBLISHER",
-      "domain": "apps.com.tr",
-      "name": "apps.com.tr"
+      "domain": "light-novel.biz",
+      "name": "light-novel.biz"
+    },
+    {
+      "seller_id": "60219",
+      "seller_type": "PUBLISHER",
+      "domain": "botecogames.io",
+      "name": "botecogames.io"
     },
     {
       "seller_id": "60221",
@@ -28,28 +35,22 @@
       "name": "california-games.com"
     },
     {
+      "seller_id": "60222",
+      "seller_type": "PUBLISHER",
+      "domain": "anthym.tv",
+      "name": "anthym.tv"
+    },
+    {
       "seller_id": "60243",
       "seller_type": "PUBLISHER",
       "domain": "callapp.com",
       "name": "callapp.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60300",
       "seller_type": "PUBLISHER",
-      "domain": "douglascountysentinel.com",
-      "name": "douglascountysentinel.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "elkharttruth.com",
-      "name": "elkharttruth.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "enquirerjournal.com",
-      "name": "enquirerjournal.com"
+      "domain": "tricount.com",
+      "name": "tricount.com"
     },
     {
       "seller_id": "60326",
@@ -58,100 +59,46 @@
       "name": "futbin.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60337",
       "seller_type": "PUBLISHER",
-      "domain": "griffindailynews.com",
-      "name": "griffindailynews.com"
+      "domain": "apps.com.tr",
+      "name": "apps.com.tr"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60338",
       "seller_type": "PUBLISHER",
-      "domain": "hendersondispatch.com",
-      "name": "hendersondispatch.com"
+      "domain": "iversoftgames.com",
+      "name": "iversoftgames.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60350",
       "seller_type": "PUBLISHER",
-      "domain": "hpenews.com",
-      "name": "hpenews.com"
+      "domain": "approver-studio.com",
+      "name": "approver-studio.com"
     },
     {
-      "seller_id": "60221",
-      "seller_type": "INTERMEDIARY",
-      "domain": "mobilityware.com",
-      "name": "mobilityware.com"
+      "seller_id": "60351",
+      "seller_type": "PUBLISHER",
+      "domain": "wurl.com",
+      "name": "wurl.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60357",
       "seller_type": "PUBLISHER",
-      "domain": "newsargus.com",
-      "name": "newsargus.com"
+      "domain": "grocerytv.com",
+      "name": "grocerytv.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60358",
       "seller_type": "PUBLISHER",
-      "domain": "newstopicnews.com",
-      "name": "newstopicnews.com"
+      "domain": "jumpywheels.com",
+      "name": "jumpywheels.com"
     },
     {
-      "seller_id": "60364",
+      "seller_id": "60359",
       "seller_type": "PUBLISHER",
-      "domain": "pursuituptv.com",
-      "name": "pursuituptv.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "rochsent.com",
-      "name": "rochsent.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "rrdailyherald.com",
-      "name": "rrdailyherald.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "sanfordherald.com",
-      "name": "sanfordherald.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "thecabin.net",
-      "name": "thecabin.net"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "thedigitalcourier.com",
-      "name": "thedigitalcourier.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "thehp.com",
-      "name": "thehp.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "themountainpress.com",
-      "name": "themountainpress.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "times-georgian.com",
-      "name": "times-georgian.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "wpsdlocal6.com",
-      "name": "wpsdlocal6.com"
+      "domain": "jumpywheels.com",
+      "name": "jumpywheels.com"
     },
     {
       "seller_id": "60362",
@@ -160,298 +107,76 @@
       "name": "advocatepress.com"
     },
     {
-      "seller_id": "60222",
-      "seller_type": "PUBLISHER",
-      "domain": "anthym.tv",
-      "name": "anthym.tv"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "carmitimes.com",
-      "name": "carmitimes.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "chronicle-tribune.com",
-      "name": "chronicle-tribune.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "couriernews.com",
-      "name": "couriernews.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "dailycorinthian.com",
-      "name": "dailycorinthian.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "duboiscountyherald.com",
-      "name": "duboiscountyherald.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "etruth.com",
-      "name": "etruth.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "franklinfavorite.com",
-      "name": "franklinfavorite.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "ftimes.com",
-      "name": "ftimes.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "grandhaventribune.com",
-      "name": "grandhaventribune.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "guardonline.com",
-      "name": "guardonline.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "h-ponline.com",
-      "name": "h-ponline.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "hammondstar.com",
-      "name": "hammondstar.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "harborcountry-news.com",
-      "name": "harborcountry-news.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "heraldargus.com",
-      "name": "heraldargus.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "heraldledger.com",
-      "name": "heraldledger.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "heraldpalladium.com",
-      "name": "heraldpalladium.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "hometownregister.com",
-      "name": "hometownregister.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "jonesborosun.com",
-      "name": "jonesborosun.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "journalenterprise.com",
-      "name": "journalenterprise.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "kentuckynewera.com",
-      "name": "kentuckynewera.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "lebanondemocrat.com",
-      "name": "lebanondemocrat.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "lpheralddispatch.com",
-      "name": "lpheralddispatch.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "madisoncourier.com",
-      "name": "madisoncourier.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "mayfield-messenger.com",
-      "name": "mayfield-messenger.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "messenger-inquirer.com",
-      "name": "messenger-inquirer.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "metropolisplanet.com",
-      "name": "metropolisplanet.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "mtcarmelregister.com",
-      "name": "mtcarmelregister.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "newsexaminer.com",
-      "name": "newsexaminer.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "olneydailymail.com",
-      "name": "olneydailymail.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "paducahsun.com",
-      "name": "paducahsun.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "paragoulddailypress.com",
-      "name": "paragoulddailypress.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "pdclarion.com",
-      "name": "pdclarion.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "perutribune.com",
-      "name": "perutribune.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "pressmentor.com",
-      "name": "pressmentor.com"
-    },
-    {
       "seller_id": "60364",
       "seller_type": "PUBLISHER",
       "domain": "pursuitchannel.com",
       "name": "pursuitchannel.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60366",
       "seller_type": "PUBLISHER",
-      "domain": "shelbynews.com",
-      "name": "shelbynews.com"
+      "domain": "ruckusfactory.com",
+      "name": "ruckusfactory.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60369",
       "seller_type": "PUBLISHER",
-      "domain": "suncommercial.com",
-      "name": "suncommercial.com"
+      "domain": "ndnation.com",
+      "name": "ndnation.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60370",
       "seller_type": "PUBLISHER",
-      "domain": "teutopolispress.com",
-      "name": "teutopolispress.com"
+      "domain": "zonecoverage.com",
+      "name": "zonecoverage.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60371",
       "seller_type": "PUBLISHER",
-      "domain": "the-messenger.com",
-      "name": "the-messenger.com"
+      "domain": "huskerboard.com",
+      "name": "huskerboard.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60374",
       "seller_type": "PUBLISHER",
-      "domain": "thecouriertimes.com",
-      "name": "thecouriertimes.com"
+      "domain": "livefootball.ie",
+      "name": "livefootball.ie"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60376",
       "seller_type": "PUBLISHER",
-      "domain": "thedailycitizen.com",
-      "name": "thedailycitizen.com"
+      "domain": "americasvoice.news",
+      "name": "americasvoice.news"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60377",
       "seller_type": "PUBLISHER",
-      "domain": "thenewsdispatch.com",
-      "name": "thenewsdispatch.com"
+      "domain": "fastchannels.tv",
+      "name": "fastchannels.tv"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60378",
       "seller_type": "PUBLISHER",
-      "domain": "thesuntimes.com",
-      "name": "thesuntimes.com"
+      "domain": "clickseffect.com",
+      "name": "clickseffect.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60379",
       "seller_type": "PUBLISHER",
-      "domain": "timesleader.net",
-      "name": "timesleader.net"
+      "domain": "galxy.tv",
+      "name": "galxy.tv"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60381",
       "seller_type": "PUBLISHER",
-      "domain": "tribunecourier.com",
-      "name": "tribunecourier.com"
+      "domain": "frntofficesport.com",
+      "name": "frntofficesport.com"
     },
     {
-      "seller_id": "60362",
+      "seller_id": "60385",
       "seller_type": "PUBLISHER",
-      "domain": "wabashplaindealer.com",
-      "name": "wabashplaindealer.com"
-    },
-    {
-      "seller_id": "60362",
-      "seller_type": "PUBLISHER",
-      "domain": "warricknews.com",
-      "name": "warricknews.com"
-    },
-    {
-      "seller_id": "60351",
-      "seller_type": "PUBLISHER",
-      "domain": "wurl.com",
-      "name": "wurl.com"
+      "domain": "mpwdigital.com",
+      "name": "mpwdigital.com"
     }
   ]
 }
