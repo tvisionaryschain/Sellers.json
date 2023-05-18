@@ -16,6 +16,12 @@
       "domain": "plex.tv",
       "name": "plex.tv"
     },
+     {
+      "seller_id": "60221",
+      "seller_type": "PUBLISHER",
+      "domain": "mobilityware.com",
+      "name": "Mobilityware"
+    },
     {
       "seller_id": "60213",
       "seller_type": "PUBLISHER",
