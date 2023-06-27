@@ -23,6 +23,13 @@
       "name": "Mobilityware"
     },
     {
+      "seller_id": "60204",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "domain": "fugo.com.tr",
+      "name": "Fugo"
+    },
+    {
       "seller_id": "60213",
       "seller_type": "PUBLISHER",
       "domain": "light-novel.biz",
