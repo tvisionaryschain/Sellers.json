@@ -5,6 +5,18 @@
   "identifiers": [],
   "sellers": [
     {
+      "seller_id": "60221",
+      "seller_type": "PUBLISHER",
+      "domain": "mobilityware.com",
+      "name": "Mobilityware"
+    },
+     {
+      "seller_id": "60204",
+      "seller_type": "PUBLISHER",
+      "domain": "fugo.com.tr",
+      "name": "fugo.com.tr"
+    },
+    {
       "seller_id": "60209",
       "seller_type": "PUBLISHER",
       "domain": "playsimple.in",
@@ -16,19 +28,6 @@
       "domain": "plex.tv",
       "name": "plex.tv"
     },
-     {
-      "seller_id": "60221",
-      "seller_type": "PUBLISHER",
-      "domain": "mobilityware.com",
-      "name": "Mobilityware"
-    },
-    {
-      "seller_id": "60204",
-      "seller_type": "PUBLISHER",
-      "is_confidential": 0,
-      "domain": "fugo.com.tr",
-      "name": "Fugo"
-    },
     {
       "seller_id": "60213",
       "seller_type": "PUBLISHER",
@@ -54,10 +53,22 @@
       "name": "anthym.tv"
     },
     {
+      "seller_id": "60232",
+      "seller_type": "PUBLISHER",
+      "domain": "azuretech.io",
+      "name": "azuretech.io"
+    },
+    {
       "seller_id": "60243",
       "seller_type": "PUBLISHER",
-      "domain": "callapp.com",
-      "name": "callapp.com"
+      "domain": "top-apps.com",
+      "name": "top-apps.com"
+    },
+    {
+      "seller_id": "60251",
+      "seller_type": "PUBLISHER",
+      "domain": "fun-verse.net",
+      "name": "fun-verse.net"
     },
     {
       "seller_id": "60300",
@@ -96,6 +107,12 @@
       "name": "wurl.com"
     },
     {
+      "seller_id": "60352",
+      "seller_type": "PUBLISHER",
+      "domain": "forage79lucca.asia",
+      "name": "forage79lucca.asia"
+    },
+    {
       "seller_id": "60357",
       "seller_type": "PUBLISHER",
       "domain": "grocerytv.com",
@@ -132,22 +149,10 @@
       "name": "ruckusfactory.com"
     },
     {
-      "seller_id": "60369",
-      "seller_type": "PUBLISHER",
-      "domain": "ndnation.com",
-      "name": "ndnation.com"
-    },
-    {
       "seller_id": "60370",
       "seller_type": "PUBLISHER",
-      "domain": "zonecoverage.com",
-      "name": "zonecoverage.com"
-    },
-    {
-      "seller_id": "60371",
-      "seller_type": "PUBLISHER",
-      "domain": "huskerboard.com",
-      "name": "huskerboard.com"
+      "domain": "centsports.com",
+      "name": "centsports.com"
     },
     {
       "seller_id": "60374",
@@ -164,20 +169,14 @@
     {
       "seller_id": "60377",
       "seller_type": "PUBLISHER",
-      "domain": "fastchannels.tv",
-      "name": "fastchannels.tv"
-    },
-    {
-      "seller_id": "60378",
-      "seller_type": "PUBLISHER",
-      "domain": "clickseffect.com",
-      "name": "clickseffect.com"
+      "domain": "afrolandtv.com",
+      "name": "afrolandtv.com"
     },
     {
       "seller_id": "60379",
       "seller_type": "PUBLISHER",
-      "domain": "galxy.tv",
-      "name": "galxy.tv"
+      "domain": "distro.tv",
+      "name": "distro.tv"
     },
     {
       "seller_id": "60381",
@@ -186,10 +185,70 @@
       "name": "frntofficesport.com"
     },
     {
+      "seller_id": "60384",
+      "seller_type": "PUBLISHER",
+      "domain": "thegolfnewsnet.com",
+      "name": "thegolfnewsnet.com"
+    },
+    {
       "seller_id": "60385",
       "seller_type": "PUBLISHER",
       "domain": "mpwdigital.com",
       "name": "mpwdigital.com"
+    },
+    {
+      "seller_id": "60386",
+      "seller_type": "PUBLISHER",
+      "domain": "puhutv.com",
+      "name": "puhutv.com"
+    },
+    {
+      "seller_id": "60387",
+      "seller_type": "PUBLISHER",
+      "domain": "blackngoldhockey.com",
+      "name": "blackngoldhockey.com"
+    },
+    {
+      "seller_id": "60388",
+      "seller_type": "INTERMEDIARY",
+      "domain": "bustimes.londonbusapp.com",
+      "name": "bustimes.londonbusapp.com"
+    },
+    {
+      "seller_id": "60398",
+      "seller_type": "PUBLISHER",
+      "domain": "appventuresstudio.blogspot.com",
+      "name": "appventuresstudio.blogspot.com"
+    },
+    {
+      "seller_id": "60399",
+      "seller_type": "PUBLISHER",
+      "domain": "littledotstudios.com",
+      "name": "littledotstudios.com"
+    },
+    {
+      "seller_id": "60401",
+      "seller_type": "PUBLISHER",
+      "domain": "aubtu.biz",
+      "name": "aubtu.biz"
+    },
+    {
+      "seller_id": "60402",
+      "seller_type": "PUBLISHER",
+      "domain": "gapustudio.com",
+      "name": "gapustudio.com"
+    },
+    {
+      "seller_id": "60405",
+      "seller_type": "PUBLISHER",
+      "domain": "craftsman-ec9d2.web.app",
+      "name": "craftsman-ec9d2.web.app"
+    },
+    {
+      "seller_id": "60407",
+      "seller_type": "PUBLISHER",
+      "domain": "newspaper24hr.com",
+      "name": "newspaper24hr.com"
     }
   ]
 }
