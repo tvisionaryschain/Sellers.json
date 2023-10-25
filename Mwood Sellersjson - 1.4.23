@@ -1,10 +1,10 @@
 {
-  "contact_email": "info@millwoodcreative.com",
-  "contact_address": "Ussihkin,70,TLV,IL",
+  "contact_email": "business@millwoodcreative.com",
+  "contact_address": "309 Coffeen Ave #1200 Sheridan, WY 82801, USA",
   "version": "1.2",
   "identifiers": [],
   "sellers": [
-     {
+   {
       "seller_id": "60204",
       "seller_type": "PUBLISHER",
       "domain": "fugo.com.tr",
@@ -41,18 +41,6 @@
       "name": "california-games.com"
     },
     {
-      "seller_id": "60221",
-      "seller_type": "INTERMEDIARY",
-      "is_confidential": 0,
-      "domain": "mobilityware.com",
-      "name": "MobilityWare
-    {
-      "seller_id": "60222",
-      "seller_type": "PUBLISHER",
-      "domain": "anthymtv.com",
-      "name": "anthymtv.com"
-    },
-    {
       "seller_id": "60232",
       "seller_type": "PUBLISHER",
       "domain": "azuretech.io",
@@ -83,6 +71,12 @@
       "name": "futbin.com"
     },
     {
+      "seller_id": "60329",
+      "seller_type": "PUBLISHER",
+      "domain": "wafour.com",
+      "name": "wafour.com"
+    },
+    {
       "seller_id": "60337",
       "seller_type": "PUBLISHER",
       "domain": "apps.com.tr",
@@ -111,12 +105,6 @@
       "seller_type": "PUBLISHER",
       "domain": "forage79lucca.asia",
       "name": "forage79lucca.asia"
-    },
-    {
-      "seller_id": "60357",
-      "seller_type": "PUBLISHER",
-      "domain": "grocerytv.com",
-      "name": "grocerytv.com"
     },
     {
       "seller_id": "60358",
@@ -181,8 +169,8 @@
     {
       "seller_id": "60381",
       "seller_type": "PUBLISHER",
-      "domain": "frntofficesport.com",
-      "name": "frntofficesport.com"
+      "domain": "frontofficesports.com",
+      "name": "frontofficesports.com"
     },
     {
       "seller_id": "60383",
@@ -195,12 +183,6 @@
       "seller_type": "PUBLISHER",
       "domain": "thegolfnewsnet.com",
       "name": "thegolfnewsnet.com"
-    },
-    {
-      "seller_id": "60385",
-      "seller_type": "PUBLISHER",
-      "domain": "mpwdigital.com",
-      "name": "mpwdigital.com"
     },
     {
       "seller_id": "60386",
@@ -221,10 +203,10 @@
       "name": "bustimes.londonbusapp.com"
     },
     {
-      "seller_id": "60398",
+      "seller_id": "60397",
       "seller_type": "PUBLISHER",
-      "domain": "appventuresstudio.blogspot.com",
-      "name": "appventuresstudio.blogspot.com"
+      "domain": "pokerallday.com",
+      "name": "pokerallday.com"
     },
     {
       "seller_id": "60399",
@@ -253,8 +235,8 @@
     {
       "seller_id": "60407",
       "seller_type": "PUBLISHER",
-      "domain": "newspaper24hr.com",
-      "name": "newspaper24hr.com"
+      "domain": "justbartanews.com",
+      "name": "justbartanews.com"
     },
     {
       "seller_id": "60410",
@@ -267,6 +249,37 @@
       "seller_type": "PUBLISHER",
       "domain": "locsonstem.com",
       "name": "locsonstem.com"
+    },
+    {
+      "seller_id": "60422",
+      "seller_type": "PUBLISHER",
+      "domain": "reveel.net",
+      "name": "reveel.net"
+    },
+    {
+      "seller_id": "60423",
+      "seller_type": "PUBLISHER",
+      "domain": "sunmedia.stream",
+      "name": "sunmedia.stream"
+    },
+    {
+      "seller_id": "60571",
+      "seller_type": "INTERMEDIARY",
+      "domain": "99memes.co",
+      "name": "99memes.co"
+    },
+    {
+      "seller_id": "60572",
+      "seller_type": "PUBLISHER",
+      "domain": "allplaynews.com",
+      "name": "allplaynews.com"
+    },
+    {
+      "seller_id": "60221",
+      "seller_type": "INTERMEDIARY",
+      "domain": "mobilityware.com",
+      "name": "MobilityWare"
+    },
     }
   ]
 }
