@@ -11,6 +11,12 @@
       "name": "fugo.com.tr"
     },
     {
+      "seller_id": "60221",
+      "seller_type": "PUBLISHER",
+      "domain": "mobilityware.com",
+      "name": "MobilityWare"
+    },
+    {
       "seller_id": "60209",
       "seller_type": "PUBLISHER",
       "domain": "playsimple.in",
@@ -36,7 +42,7 @@
     },
     {
       "seller_id": "60221",
-      "seller_type": "INTERMEDIARY",
+      "seller_type": "PUBLISHER",
       "domain": "california-games.com",
       "name": "california-games.com"
     },
@@ -273,12 +279,6 @@
       "seller_type": "PUBLISHER",
       "domain": "allplaynews.com",
       "name": "allplaynews.com"
-    },
-    {
-      "seller_id": "60221",
-      "seller_type": "INTERMEDIARY",
-      "domain": "mobilityware.com",
-      "name": "MobilityWare"
     },
     }
   ]
